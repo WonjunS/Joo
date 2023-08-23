@@ -21,7 +21,7 @@
 
 - **프로젝트 명칭**: 주랑주랑
 - **제작 기간**: 2023년 6월 1일 ~ 2023년 6월 22일
-- **참여 인원**: 7명
+- **참여 인원**: 6명
 - **개발 언어**: Java
 - **프로젝트 소개**: 주랑주랑은 우리나라의 전통주를 판매하는 온라인 쇼핑몰 사이트입니다. 우리가 흔히 접할 수 없는 우리나라 전국 각지의 색다른 술을 판매하기 위해서 이 쇼핑몰을 기획하게 되었습니다. 프로젝트를 진행하면서 그동안 배웠던 CRUD 작업을 포함한 쇼핑몰에 적용할 수 있는 다양한 기능들을 구현해보기 위해 이 프로젝트를 진행하게 되었습니다.
 - **역할**: 팀장
@@ -29,6 +29,14 @@
   - 로그인/회원가입
   - 회원 관련 CRUD
   - 결제 기능
+
+
+<br/>
+
+|            [원준](https://github.com/WonjunS)             |            [한별](https://github.com/blackhabin)               |             [우현](https://github.com/kkwh)             |             [선아](https://github.com/seonaK)             |              [세엽](https://github.com/sayyoup)               |                          [태욱](https://github.com/ctw6413)              |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| <img src="https://avatars.githubusercontent.com/u/93713151?v=4" width=200px alt="_"/> | <img src="https://avatars.githubusercontent.com/u/126144148?v=4" width=200px alt="_"/> | <img src="https://avatars.githubusercontent.com/u/121307297?v=4" width=200px alt="_"/> | <img src="https://avatars.githubusercontent.com/u/134375418?v=4" width=200px alt="_"> | <img src="https://avatars.githubusercontent.com/u/123839647?v=4" width=200px alt="_">  | <img src="https://avatars.githubusercontent.com/u/83942153?v=4" width=200px alt="_"> |
+|                         🌱 팀장                         |                         🌱 부팀장                        |                           🌵 만화                           |                           🌷 메이플                           |                           🌻 공룡                           |                           🌼 결석                           |                           🌾 E                           |
 
 
 <br/>
